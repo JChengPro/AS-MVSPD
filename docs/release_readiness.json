@@ -1,0 +1,22 @@
+{
+  "stage": "local_preparation",
+  "uploaded": false,
+  "submission_ready": false,
+  "pending": [
+    "Author/rights-holder license decision and final LICENSE",
+    "Confirm rat study input and individual-level plotting data access arrangements",
+    "Create and verify the intended remote GitHub repository",
+    "Archive submitted software version and test data; record the actual permanent URL/DOI"
+  ],
+  "selected_payload_files": 87,
+  "excluded": [
+    ".private/",
+    "data/",
+    "results/",
+    "verification/",
+    "generated figures",
+    "Word manuscripts",
+    "Excel workbooks"
+  ],
+  "note": "The inventory hashes cover payload files; manifest/readiness metadata are included in the ZIP separately."
+}

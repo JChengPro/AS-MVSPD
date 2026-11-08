@@ -1,0 +1,79 @@
+[
+  {
+    "dataset": "MARS_IBS_2020",
+    "path": "borenstein_curated/MARS_IBS_2020/metadata.tsv",
+    "url": "https://raw.githubusercontent.com/borenstein-lab/microbiome-metabolome-curated-data/89a519d8c832008fbc6e650453e83e2f04858d02/data/processed_data/MARS_IBS_2020/metadata.tsv",
+    "sha256": "70e16b5ce5b094a8a8c71684427aa1dd90a6fdd90520f344440aaea2f7901163",
+    "repository_commit": "89a519d8c832008fbc6e650453e83e2f04858d02"
+  },
+  {
+    "dataset": "MARS_IBS_2020",
+    "path": "borenstein_curated/MARS_IBS_2020/genera.tsv",
+    "url": "https://raw.githubusercontent.com/borenstein-lab/microbiome-metabolome-curated-data/89a519d8c832008fbc6e650453e83e2f04858d02/data/processed_data/MARS_IBS_2020/genera.tsv",
+    "sha256": "1b25fee9ad8c39c1f9ca8a2a7d44947337fbe21bb129a3d45bf9735842f20260",
+    "repository_commit": "89a519d8c832008fbc6e650453e83e2f04858d02"
+  },
+  {
+    "dataset": "MARS_IBS_2020",
+    "path": "borenstein_curated/MARS_IBS_2020/mtb.tsv",
+    "url": "https://raw.githubusercontent.com/borenstein-lab/microbiome-metabolome-curated-data/89a519d8c832008fbc6e650453e83e2f04858d02/data/processed_data/MARS_IBS_2020/mtb.tsv",
+    "sha256": "d7569e45a70d9f9a8b408ea223b8ee052ba1f0d7f34727a312f299b58777b9ac",
+    "repository_commit": "89a519d8c832008fbc6e650453e83e2f04858d02"
+  },
+  {
+    "dataset": "MARS_IBS_2020",
+    "path": "borenstein_curated/MARS_IBS_2020/mtb.map.tsv",
+    "url": "https://raw.githubusercontent.com/borenstein-lab/microbiome-metabolome-curated-data/89a519d8c832008fbc6e650453e83e2f04858d02/data/processed_data/MARS_IBS_2020/mtb.map.tsv",
+    "sha256": "c76a6eac2493036e73f010e29b67991ae2ef7450ed49839f623cf556e80d8b44",
+    "repository_commit": "89a519d8c832008fbc6e650453e83e2f04858d02"
+  },
+  {
+    "dataset": "HE_INFANTS_MFGM_2019",
+    "path": "borenstein_curated/HE_INFANTS_MFGM_2019/metadata.tsv",
+    "url": "https://raw.githubusercontent.com/borenstein-lab/microbiome-metabolome-curated-data/89a519d8c832008fbc6e650453e83e2f04858d02/data/processed_data/HE_INFANTS_MFGM_2019/metadata.tsv",
+    "sha256": "099f4fa62a80aa0722cffa6b3829e79ae0dae91ab1be3c40c93d50aac471877a",
+    "repository_commit": "89a519d8c832008fbc6e650453e83e2f04858d02"
+  },
+  {
+    "dataset": "HE_INFANTS_MFGM_2019",
+    "path": "borenstein_curated/HE_INFANTS_MFGM_2019/genera.tsv",
+    "url": "https://raw.githubusercontent.com/borenstein-lab/microbiome-metabolome-curated-data/89a519d8c832008fbc6e650453e83e2f04858d02/data/processed_data/HE_INFANTS_MFGM_2019/genera.tsv",
+    "sha256": "64bc3218bd7ede95e7c31dcc3ce7550d3d623cd8c05cb86fdf930b6badf2e690",
+    "repository_commit": "89a519d8c832008fbc6e650453e83e2f04858d02"
+  },
+  {
+    "dataset": "HE_INFANTS_MFGM_2019",
+    "path": "borenstein_curated/HE_INFANTS_MFGM_2019/mtb.tsv",
+    "url": "https://raw.githubusercontent.com/borenstein-lab/microbiome-metabolome-curated-data/89a519d8c832008fbc6e650453e83e2f04858d02/data/processed_data/HE_INFANTS_MFGM_2019/mtb.tsv",
+    "sha256": "14e143dfe0abc80db2e691223f6dbd814ef2643fbc61ff8b4fb312fb5ff46935",
+    "repository_commit": "89a519d8c832008fbc6e650453e83e2f04858d02"
+  },
+  {
+    "dataset": "HE_INFANTS_MFGM_2019",
+    "path": "borenstein_curated/HE_INFANTS_MFGM_2019/mtb.map.tsv",
+    "url": "https://raw.githubusercontent.com/borenstein-lab/microbiome-metabolome-curated-data/89a519d8c832008fbc6e650453e83e2f04858d02/data/processed_data/HE_INFANTS_MFGM_2019/mtb.map.tsv",
+    "sha256": "b4af6dcdf4aaebd56834a46a5f7fa86820d1bb12ff1b59f1b381f16525ed3541",
+    "repository_commit": "89a519d8c832008fbc6e650453e83e2f04858d02"
+  },
+  {
+    "dataset": "HADDAD_OSA_IHH",
+    "path": "animal_exposure/haddad_osa/haddad_6weeks_allFeatures_pqn_matched_wIDs.txt",
+    "url": "https://raw.githubusercontent.com/knightlab-analyses/haddad_osa/44320d64845ce3d805821f1c22c7b090b75c0a11/data/haddad_6weeks_allFeatures_pqn_matched_wIDs.txt",
+    "sha256": "00898269ef1f3acda8e3ae30131fc34e8e2541b841d13aea84cceb03f2b8fa99",
+    "repository_commit": "44320d64845ce3d805821f1c22c7b090b75c0a11"
+  },
+  {
+    "dataset": "HADDAD_OSA_IHH",
+    "path": "animal_exposure/haddad_osa/haddad_6weeks_deblur_otus_rare2k_matched_wtaxa.txt",
+    "url": "https://raw.githubusercontent.com/knightlab-analyses/haddad_osa/44320d64845ce3d805821f1c22c7b090b75c0a11/data/haddad_6weeks_deblur_otus_rare2k_matched_wtaxa.txt",
+    "sha256": "2ea474cd86973f7f83522e534905bfa191c0d7990da43f075a73ce25160f0490",
+    "repository_commit": "44320d64845ce3d805821f1c22c7b090b75c0a11"
+  },
+  {
+    "dataset": "HADDAD_OSA_IHH",
+    "path": "animal_exposure/haddad_osa/haddad_6weeks_metadata_matched.txt",
+    "url": "https://raw.githubusercontent.com/knightlab-analyses/haddad_osa/44320d64845ce3d805821f1c22c7b090b75c0a11/data/haddad_6weeks_metadata_matched.txt",
+    "sha256": "cc8f47c01e9c5ebaa23738ead436ec5d23c9abfadec083eb96e39dce27419bdd",
+    "repository_commit": "44320d64845ce3d805821f1c22c7b090b75c0a11"
+  }
+]

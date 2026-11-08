@@ -1,0 +1,220 @@
+{
+  "primary": {
+    "analysis": "primary_reproduction",
+    "n": 57,
+    "microbiome_features": 33,
+    "metabolome_features": 119,
+    "microbiome_p": 0.00390625,
+    "metabolome_p": 0.00390625,
+    "joint_p": 0.00390625,
+    "patterns": 256
+  },
+  "quality": {
+    "paired_n": 57,
+    "unique_samples": 114,
+    "same_gender_within_pair": true,
+    "metabolite_missing_cells": 0,
+    "metabolite_zero_fraction": 0.3577485380116959,
+    "negative_microbe_cells": 0,
+    "negative_metabolite_cells": 0,
+    "microbiome_row_sum_range": [
+      0.9999999999999973,
+      1.0
+    ],
+    "urea_positive_samples": 0,
+    "urea_max": 0.0,
+    "urea_positive_pair_n": 0
+  },
+  "leave_one_subject": {
+    "significant": 57,
+    "total": 57,
+    "max_joint_p": 0.00390625
+  },
+  "feature_subsamples": {
+    "significant": 30,
+    "total": 30,
+    "max_joint_p": 0.00390625
+  },
+  "other_sensitivities": [
+    {
+      "analysis": "primary_reproduction",
+      "n": 57,
+      "microbiome_features": 33,
+      "metabolome_features": 119,
+      "microbiome_p": 0.00390625,
+      "metabolome_p": 0.00390625,
+      "joint_p": 0.00390625,
+      "patterns": 256
+    },
+    {
+      "analysis": "feeding_stratum_Breast milk",
+      "n": 13,
+      "microbiome_features": 32,
+      "metabolome_features": 117,
+      "microbiome_p": 0.00390625,
+      "metabolome_p": 0.00390625,
+      "joint_p": 0.00390625,
+      "patterns": 256
+    },
+    {
+      "analysis": "feeding_stratum_Experimental infant formula",
+      "n": 21,
+      "microbiome_features": 33,
+      "metabolome_features": 113,
+      "microbiome_p": 0.00390625,
+      "metabolome_p": 0.00390625,
+      "joint_p": 0.00390625,
+      "patterns": 256
+    },
+    {
+      "analysis": "feeding_stratum_Standard infant formula",
+      "n": 23,
+      "microbiome_features": 31,
+      "metabolome_features": 113,
+      "microbiome_p": 0.00390625,
+      "metabolome_p": 0.00390625,
+      "joint_p": 0.00390625,
+      "patterns": 256
+    },
+    {
+      "analysis": "metabolite_raw_concentration",
+      "n": 57,
+      "microbiome_features": 33,
+      "metabolome_features": 119,
+      "microbiome_p": 0.00390625,
+      "metabolome_p": 0.00390625,
+      "joint_p": 0.00390625,
+      "patterns": 256
+    },
+    {
+      "analysis": "metabolite_asinh_concentration",
+      "n": 57,
+      "microbiome_features": 33,
+      "metabolome_features": 119,
+      "microbiome_p": 0.00390625,
+      "metabolome_p": 0.00390625,
+      "joint_p": 0.00390625,
+      "patterns": 256
+    },
+    {
+      "analysis": "metabolite_log_half_min_positive_per_feature",
+      "n": 57,
+      "microbiome_features": 33,
+      "metabolome_features": 119,
+      "microbiome_p": 0.00390625,
+      "metabolome_p": 0.00390625,
+      "joint_p": 0.00390625,
+      "patterns": 256
+    },
+    {
+      "analysis": "metabolite_log_total_relative_half_min",
+      "n": 57,
+      "microbiome_features": 33,
+      "metabolome_features": 119,
+      "microbiome_p": 0.00390625,
+      "metabolome_p": 0.00390625,
+      "joint_p": 0.00390625,
+      "patterns": 256
+    },
+    {
+      "analysis": "metabolite_high_confidence",
+      "n": 57,
+      "microbiome_features": 33,
+      "metabolome_features": 119,
+      "microbiome_p": 0.00390625,
+      "metabolome_p": 0.00390625,
+      "joint_p": 0.00390625,
+      "patterns": 256
+    },
+    {
+      "analysis": "metabolite_detected_25pct",
+      "n": 57,
+      "microbiome_features": 33,
+      "metabolome_features": 97,
+      "microbiome_p": 0.00390625,
+      "metabolome_p": 0.00390625,
+      "joint_p": 0.00390625,
+      "patterns": 256
+    },
+    {
+      "analysis": "metabolite_exclude_urea",
+      "n": 57,
+      "microbiome_features": 33,
+      "metabolome_features": 119,
+      "microbiome_p": 0.00390625,
+      "metabolome_p": 0.00390625,
+      "joint_p": 0.00390625,
+      "patterns": 256
+    },
+    {
+      "analysis": "microbiome_prevalence_0.1",
+      "n": 57,
+      "microbiome_features": 64,
+      "metabolome_features": 119,
+      "microbiome_p": 0.00390625,
+      "metabolome_p": 0.00390625,
+      "joint_p": 0.00390625,
+      "patterns": 256
+    },
+    {
+      "analysis": "microbiome_prevalence_0.5",
+      "n": 57,
+      "microbiome_features": 12,
+      "metabolome_features": 119,
+      "microbiome_p": 0.00390625,
+      "metabolome_p": 0.00390625,
+      "joint_p": 0.00390625,
+      "patterns": 256
+    },
+    {
+      "analysis": "microbiome_pseudocount_min_times_0.1",
+      "n": 57,
+      "microbiome_features": 33,
+      "metabolome_features": 119,
+      "microbiome_p": 0.00390625,
+      "metabolome_p": 0.00390625,
+      "joint_p": 0.00390625,
+      "patterns": 256
+    },
+    {
+      "analysis": "microbiome_pseudocount_min_times_1.0",
+      "n": 57,
+      "microbiome_features": 33,
+      "metabolome_features": 119,
+      "microbiome_p": 0.00390625,
+      "metabolome_p": 0.00390625,
+      "joint_p": 0.00390625,
+      "patterns": 256
+    },
+    {
+      "analysis": "microbiome_remove_unclassified",
+      "n": 57,
+      "microbiome_features": 33,
+      "metabolome_features": 119,
+      "microbiome_p": 0.00390625,
+      "metabolome_p": 0.00390625,
+      "joint_p": 0.00390625,
+      "patterns": 256
+    },
+    {
+      "analysis": "larger_closed_subgroup_4096",
+      "n": 57,
+      "microbiome_features": 33,
+      "metabolome_features": 119,
+      "microbiome_p": 0.000244140625,
+      "metabolome_p": 0.000244140625,
+      "joint_p": 0.000244140625,
+      "patterns": 4096
+    }
+  ],
+  "skewness_descriptive_only": {
+    "Microbiome": {
+      "median_absolute": 0.397880384823911,
+      "max_absolute": 1.11721572512322
+    },
+    "Metabolome": {
+      "median_absolute": 0.415608314316488,
+      "max_absolute": 5.224718239457098
+    }
+  }
+}

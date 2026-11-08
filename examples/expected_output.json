@@ -1,0 +1,21 @@
+{
+  "joint_pvalue": 0.015625,
+  "view_pvalues": {
+    "Microbiome": 0.015625,
+    "Metabolome": 0.015625
+  },
+  "selected_k": {
+    "Microbiome": 1,
+    "Metabolome": 1
+  },
+  "sign_patterns": 256,
+  "complete_full_group": true,
+  "seed": 20260803,
+  "k_grid": [
+    1,
+    2,
+    5,
+    10,
+    20
+  ]
+}

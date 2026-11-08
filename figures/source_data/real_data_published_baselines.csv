@@ -1,0 +1,25 @@
+﻿data_scope,dataset,n_subjects,method,joint_p,sign_patterns,full_group
+public,HADDAD Air,8,AS-MVSPD,0.015625,256,True
+public,HADDAD Air,8,AS-MVSPD+LOO,0.015625,256,True
+public,HADDAD Air,8,Paired-aSPU-IUT,0.0234375,256,True
+public,HADDAD Air,8,Paired-CQ-IUT,0.0078125,256,True
+public,HADDAD Air,8,Paired-RankCOM-IUT,0.0078125,256,True
+public,HADDAD IHH,8,AS-MVSPD,0.0078125,256,True
+public,HADDAD IHH,8,AS-MVSPD+LOO,0.0078125,256,True
+public,HADDAD IHH,8,Paired-aSPU-IUT,0.0234375,256,True
+public,HADDAD IHH,8,Paired-CQ-IUT,0.0078125,256,True
+public,HADDAD IHH,8,Paired-RankCOM-IUT,0.0078125,256,True
+public,MARS IBS 2020,70,AS-MVSPD,0.03125,256,False
+public,MARS IBS 2020,70,AS-MVSPD+LOO,0.03125,256,False
+public,MARS IBS 2020,70,Paired-aSPU-IUT,0.0390625,256,False
+public,MARS IBS 2020,70,Paired-CQ-IUT,0.32421875,256,False
+public,MARS IBS 2020,70,Paired-RankCOM-IUT,0.04296875,256,False
+local,Local high-pressure rats,8,AS-MVSPD,0.015625,256,True
+local,Local high-pressure rats,8,AS-MVSPD+LOO,0.015625,256,True
+local,Local high-pressure rats,8,Paired-aSPU-IUT,0.0234375,256,True
+local,Local high-pressure rats,8,Paired-CQ-IUT,0.0078125,256,True
+local,Local high-pressure rats,8,Paired-RankCOM-IUT,0.0078125,256,True
+public,HE infants 2–12 mo,57,AS-MVSPD,0.00390625,256,False
+public,HE infants 2–12 mo,57,Paired-aSPU-IUT,0.0078125,256,False
+public,HE infants 2–12 mo,57,Paired-CQ-IUT,0.00390625,256,False
+public,HE infants 2–12 mo,57,Paired-RankCOM-IUT,0.00390625,256,False

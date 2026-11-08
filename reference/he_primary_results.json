@@ -1,0 +1,31 @@
+{
+  "dataset": "HE_INFANTS_MFGM_2019",
+  "comparison": "12 months minus 2 months",
+  "subjects": 57,
+  "feeding_group_counts": {
+    "Standard infant formula": 23,
+    "Experimental infant formula": 21,
+    "Breast milk": 13
+  },
+  "views": [
+    {
+      "view": "Microbiome",
+      "subjects": 57,
+      "features": 33,
+      "pvalue": 0.00390625,
+      "selected_k": 1
+    },
+    {
+      "view": "Metabolome",
+      "subjects": 57,
+      "features": 119,
+      "pvalue": 0.00390625,
+      "selected_k": 1
+    }
+  ],
+  "joint_pvalue": 0.00390625,
+  "both_views_significant": true,
+  "primary_seed": 20260860,
+  "sign_patterns": 256,
+  "full_group": false
+}

@@ -1,0 +1,7 @@
+{
+  "sample_mapping": "PATH/TO/sample_mapping.csv",
+  "species": "PATH/TO/taxonomy_Species_abund_Sample.xlsx",
+  "ko": "PATH/TO/KEGG_KOEntry_abund_Sample.xlsx",
+  "metabolite": "PATH/TO/All_Metabolites.xlsx",
+  "ko_annotation": "PATH/TO/Unigenes_KEGG.txt"
+}

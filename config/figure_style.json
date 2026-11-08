@@ -1,0 +1,79 @@
+{
+  "backend": "Python 3.10 + matplotlib 3.7",
+  "canvas": {
+    "main_width_mm": 183,
+    "single_width_mm": 89,
+    "main_height_mm": 150,
+    "background": "#FFFFFF",
+    "preview_dpi": 600
+  },
+  "fonts": {
+    "family": ["Arial", "Liberation Sans", "DejaVu Sans", "sans-serif"],
+    "body_pt": 6.8,
+    "tick_pt": 6.3,
+    "axis_label_pt": 7.0,
+    "panel_label_pt": 8.5,
+    "legend_pt": 6.2
+  },
+  "dense_main_fonts": {
+    "body_pt": 7.6,
+    "tick_pt": 7.1,
+    "axis_label_pt": 7.8,
+    "panel_label_pt": 9.4,
+    "legend_pt": 6.9
+  },
+  "line_width_pt": {
+    "axes": 0.6,
+    "data": 1.0,
+    "reference": 0.7,
+    "errorbar": 0.7
+  },
+  "method_colors": {
+    "AS-MVSPD": "#274C77",
+    "AS-MVSPD+LOO": "#7C8DA6",
+    "Paired-aSPU-IUT": "#009E73",
+    "Paired-CQ-IUT": "#D55E00",
+    "Paired-RankCOM-IUT": "#CC79A7",
+    "Fixed top-1": "#E69F00",
+    "Fixed top-5": "#CC79A7",
+    "Fixed top-20": "#8C6D31",
+    "Max-MV": "#009E73",
+    "Dense-MV": "#7A7A7A"
+  },
+  "method_markers": {
+    "AS-MVSPD": "o",
+    "AS-MVSPD+LOO": "s",
+    "Paired-aSPU-IUT": "P",
+    "Paired-CQ-IUT": "D",
+    "Paired-RankCOM-IUT": "^",
+    "Fixed top-1": "^",
+    "Fixed top-5": "D",
+    "Fixed top-20": "v",
+    "Max-MV": "P",
+    "Dense-MV": "X"
+  },
+  "omics_colors": {
+    "Species": "#1B9E77",
+    "KO": "#7570B3",
+    "Metabolite": "#D95F02",
+    "Joint IUT": "#333333"
+  },
+  "time_colors": {
+    "Pre": "#4477AA",
+    "Post": "#CC6677"
+  },
+  "neutral_colors": {
+    "text": "#222222",
+    "mid": "#777777",
+    "light": "#D9DDE5",
+    "grid": "#E8E8E8",
+    "missing": "#E5E5E5"
+  },
+  "pvalue": {
+    "alpha": 0.05,
+    "display_decimals": 4,
+    "small_threshold": 0.0001,
+    "display_small_as": "scientific"
+  },
+  "exports": ["pdf", "svg", "png"]
+}

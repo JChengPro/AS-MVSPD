@@ -1,0 +1,256 @@
+[
+  {
+    "source": "paired_stable_joint_differential/stablejoint/plotting.py",
+    "destination": "stablejoint/plotting.py",
+    "source_sha256": "1cf04882c8852b68e6f9f57c796f1d59d73df3443c8d519473cad5c064944c21"
+  },
+  {
+    "source": "paired_stable_joint_differential/stablejoint/benchmark.py",
+    "destination": "stablejoint/benchmark.py",
+    "source_sha256": "8c6670c136ab778aec8d7ad40875fff18618e22d1be30c83f3ffc6bc81b3747a"
+  },
+  {
+    "source": "paired_stable_joint_differential/stablejoint/__init__.py",
+    "destination": "stablejoint/__init__.py",
+    "source_sha256": "9c78e275ccaa68f690415ac9ab6dbece4ec8952b7d511028bbd16d9f242b89bd"
+  },
+  {
+    "source": "paired_stable_joint_differential/stablejoint/core.py",
+    "destination": "stablejoint/core.py",
+    "source_sha256": "3390674df6e2f73667007dd7ef8ccfc14d83169a55ef5f9cc309f40534ed98b8"
+  },
+  {
+    "source": "paired_stable_joint_differential/config/figure_style.json",
+    "destination": "config/figure_style.json",
+    "source_sha256": "8242474833c46de09b6384a0ee48e9882aa22bb3b52c0f2decbb4d7ed584b4c7"
+  },
+  {
+    "source": "paired_stable_joint_differential/config/experiment.json",
+    "destination": "config/experiment.json",
+    "source_sha256": "10354aafd46ac4a2b5e10767d1b85de2fdd0c87e0e221b1dac109887ca93d05c"
+  },
+  {
+    "source": "paired_stable_joint_differential/tests/test_core.py",
+    "destination": "tests/test_core.py",
+    "source_sha256": "68e0bcedf9a98031d702385b439d7030595a79f653f3d58838855a4a13ef55a2"
+  },
+  {
+    "source": "paired_stable_joint_differential/pytest.ini",
+    "destination": "pytest.ini",
+    "source_sha256": "b160d82f7811555051f8966d8e02750a985227c1d022208c784e606946f2eada"
+  },
+  {
+    "source": "paired_stable_joint_differential/scripts/02_run_simulation.py",
+    "destination": "scripts/02_run_simulation.py",
+    "source_sha256": "6e12e5ef2280350bac788b374695e261cfb1381ad976b14c2994ee65604585a6"
+  },
+  {
+    "source": "paired_stable_joint_differential/scripts/04_run_local_application.py",
+    "destination": "scripts/04_run_local_application.py",
+    "source_sha256": "e959ea8fdd0fa3940e11baf3849c7c7adf4eef2acc4da5d0fc591c0e4c8cf1d3"
+  },
+  {
+    "source": "paired_stable_joint_differential/scripts/06_prepare_figure_data.py",
+    "destination": "scripts/06_prepare_figure_data.py",
+    "source_sha256": "e93e236f800b04adf563f912380e3f1b0d841e154ddfabba83c0c79fe67ec587"
+  },
+  {
+    "source": "paired_stable_joint_differential/scripts/07_make_publication_figures.py",
+    "destination": "scripts/07_make_publication_figures.py",
+    "source_sha256": "596a72d83fa5f5ab182c4d86a34070df4ba592d2ea4841f3faa9d5cf06ef7eca"
+  },
+  {
+    "source": "paired_stable_joint_differential/scripts/09_run_method_validation.py",
+    "destination": "scripts/09_run_method_validation.py",
+    "source_sha256": "d9547c64ad56e2c86f359b2801a3faafef376ab08107c9775b2aab5e2e8e54fb"
+  },
+  {
+    "source": "paired_stable_joint_differential/scripts/11_run_structured_correlation_validation.py",
+    "destination": "scripts/11_run_structured_correlation_validation.py",
+    "source_sha256": "c64b7c9ab9378a4e1bed051ef19284ca67bbd4f0e70bd461872ece0c4d007f02"
+  },
+  {
+    "source": "paired_stable_joint_differential/scripts/13_run_asymmetry_gradient.py",
+    "destination": "scripts/13_run_asymmetry_gradient.py",
+    "source_sha256": "cf333f9f594fcb49eb3196ffb71394cf5c03079f4b4f1eea2398aae190d38226"
+  },
+  {
+    "source": "paired_stable_joint_differential/scripts/16_benchmark_runtime.py",
+    "destination": "scripts/16_benchmark_runtime.py",
+    "source_sha256": "09a821be1159e08e56543ac2ab4dc0add93972ad183b9c2c2a9b9c78d3cb5f57"
+  },
+  {
+    "source": "paired_stable_joint_differential/scripts/18_fixed_scale_ablation.py",
+    "destination": "scripts/18_fixed_scale_ablation.py",
+    "source_sha256": "bbf427d849f37cfd11acb57e06ec002bd19eeb9350accedbf2c6810c06b4f550"
+  },
+  {
+    "source": "paired_small_sample_multiomics_method/icpska/data.py",
+    "destination": "stablejoint/preprocessing.py",
+    "source_sha256": "d03b50f59eb84b529fba87f441349e8feceafc8a3cbdd8521b06373f59542b2f",
+    "adaptation": "Public functions retained; MARS and HE loaders made explicit."
+  },
+  {
+    "source": "paired_multiomics_spls/scripts/run_paired_multiomics.py",
+    "destination": "stablejoint/local_preprocessing.py",
+    "source_sha256": "57ffc9705e0a2a769a74a3f400af6a5ecc2997b7571ff9c40662f990614a83f1",
+    "adaptation": "Only rat preprocessing functions and constants extracted."
+  },
+  {
+    "source": "paired_multiomics_spls/scripts/run_integrated_pathway_validation.py",
+    "destination": "stablejoint/local_preprocessing.py",
+    "source_sha256": "6851ef1d1e79534f4894b15d9bc4c0bbed25683358908db1d1204f6821bd9b90",
+    "adaptation": "Only rat preprocessing functions and constants extracted."
+  },
+  {
+    "source": "paired_stable_joint_differential/scripts/15_run_ko_clr_sensitivity.py",
+    "destination": "scripts/15_run_ko_clr_sensitivity.py",
+    "source_sha256": "352a1f9a2bb6cedf2f0dcead6217d725c6c6ce53bc93e3f8cce5b2f9b9058e28"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/HE_INFANTS_MFGM_2019_2to12_months_20261031/primary_results.json",
+    "destination": "reference/he_primary_results.json",
+    "source_sha256": "0b1a299993475661cea908e97af274bfd21092fc1440f532a47aed3f1f9a0bb5"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/HE_INFANTS_MFGM_2019_2to12_months_20261031/further_audit/summary.json",
+    "destination": "reference/he_summary.json",
+    "source_sha256": "e780fe66a4bb163d9e19a6f462ef0797bce3c9a01c581bd7f186afc466fd196a"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/HE_INFANTS_MFGM_2019_2to12_months_20261031/further_audit/retention_by_feeding_group.csv",
+    "destination": "reference/he_retention_by_feeding_group.csv",
+    "source_sha256": "08e6d0b7de86a1bd80a530e9bef2d989d05cc41166a80831d23e8cc0edaddc33"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/asymmetry_joint_summary.csv",
+    "destination": "figures/source_data/asymmetry_joint_summary.csv",
+    "source_sha256": "0027b6c52de97c61f85861a9c6a448ad0d4e7916d8ddff23a5345c7e8b3c9c2b"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/HE_published_baselines.csv",
+    "destination": "figures/source_data/HE_published_baselines.csv",
+    "source_sha256": "45d7228bfbc50455ddba820574ddf992b5dee34878819fb7feaf8c189033c27d"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/HE_primary_signs.npy",
+    "destination": "figures/source_data/HE_primary_signs.npy",
+    "source_sha256": "03f5773a6325d752136c2f7b84d10fe4ac9056bd221eafee063149f1df776cfc"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/published_baseline_summary.csv",
+    "destination": "figures/source_data/published_baseline_summary.csv",
+    "source_sha256": "b7820a4ddfad4f84162afc8c004d33b3cd0e16071a060f18f5f8d26d1aec7ced"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/public_method_comparison.csv",
+    "destination": "figures/source_data/public_method_comparison.csv",
+    "source_sha256": "8e68c17f600757815ebccf87e5df75e4c545d52e88b67e74d4eb9fd72b3c0dbc"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/asymmetry_fwer_summary.csv",
+    "destination": "figures/source_data/asymmetry_fwer_summary.csv",
+    "source_sha256": "32876a1b9f6cf1185e6902ebd535b7985af622a2dfcc6e68019268c91cda8ead"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/public_seed_sensitivity.csv",
+    "destination": "figures/source_data/public_seed_sensitivity.csv",
+    "source_sha256": "d7c8baf7d03dcc8549d79342bb665cf52732146687b026b35e2467c567a12bd3"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/influence_robustness_summary.csv",
+    "destination": "figures/source_data/influence_robustness_summary.csv",
+    "source_sha256": "54e7e4d045b10fcb13166d5573d2c7eb4ad5badce5a3e1f96f4582c03949ddd2"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/structured_correlation_fwer_summary.csv",
+    "destination": "figures/source_data/structured_correlation_fwer_summary.csv",
+    "source_sha256": "6cbbb490c3f2769438cfaeb352a6704fa0970b22c0e5228e4863dbf36e0d104f"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/simulation_performance_with_ci.csv",
+    "destination": "figures/source_data/simulation_performance_with_ci.csv",
+    "source_sha256": "c6f053824077299e041773a3fd615820c5a0fdc7e1f0e28e0e821f66ab3bb00d"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/public_dataset_overview.csv",
+    "destination": "figures/source_data/public_dataset_overview.csv",
+    "source_sha256": "61b835632a9ad8a0766e451b36566866f1491a3f2211e5ef3029e48acc0c9848"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/simulation_feature_recovery_with_se.csv",
+    "destination": "figures/source_data/simulation_feature_recovery_with_se.csv",
+    "source_sha256": "5f80e8fad5a6044742a9741980cefd859fdd7f5a2eae5b6d840f6058ea48fd1e"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/simulation_extended_with_ci.csv",
+    "destination": "figures/source_data/simulation_extended_with_ci.csv",
+    "source_sha256": "017e887b5a83fb28f5a84141e2d637fe4b8db625aa259216eebbbbd8c80e3a26"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/structured_correlation_global_summary.csv",
+    "destination": "figures/source_data/structured_correlation_global_summary.csv",
+    "source_sha256": "52059b1a979b65205e755cf727bd0a1d7a5a8eed143d64e4be138ff966f911b1"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/three_view_iut_summary.csv",
+    "destination": "figures/source_data/three_view_iut_summary.csv",
+    "source_sha256": "4377a9a1e5ef17c8051e69ad9be44ce90e5d7b8523fb10ea9c8864c401ad48a6"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/runtime_scalability.csv",
+    "destination": "figures/source_data/runtime_scalability.csv",
+    "source_sha256": "777d61dcc53a900f432e86ef742aeb3306e143d9861fee0c484d4165062e08f6"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/partial_null_fwer_summary.csv",
+    "destination": "figures/source_data/partial_null_fwer_summary.csv",
+    "source_sha256": "f2323e4a7fe2490ec81d8e12a094a91107f371acd16224c2d46d500314e5fa7b"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/influence_robustness_replicates.csv",
+    "destination": "figures/source_data/influence_robustness_replicates.csv",
+    "source_sha256": "a9ddca482b89821cafffb781a4b9ee7722c327546c0f9945013860f239b49f9e"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/public_leave_one_subject.csv",
+    "destination": "figures/source_data/public_leave_one_subject.csv",
+    "source_sha256": "20b7ca6d07d67a7a3a89d206ce55cd802154468712242a493aec074c44394a28"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/public_feature_resampling.csv",
+    "destination": "figures/source_data/public_feature_resampling.csv",
+    "source_sha256": "81ea3a730af9f25ff45c9f922f78a5c3996526cf52ed96b269b4930061334fec"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/Table_1_public_validation.csv",
+    "destination": "figures/source_data/Table_1_public_validation.csv",
+    "source_sha256": "61b835632a9ad8a0766e451b36566866f1491a3f2211e5ef3029e48acc0c9848"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/simulation_extended_replicates.csv",
+    "destination": "figures/source_data/simulation_extended_replicates.csv",
+    "source_sha256": "9c2b7e3ab21bb1628a5743ed5e2009cd7840857c20659aa7d4e570827a78ab56"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/bioinformatics_figures_HE_compact_20261031/source_data/real_data_published_baselines.csv",
+    "destination": "figures/source_data/real_data_published_baselines.csv",
+    "source_sha256": "43b0945abe3513136e4ea34363857acfdec0bd8b7941ebd07c483e97c8a7b649"
+  },
+  {
+    "source": "paired_stable_joint_differential/results/method_validation/fixed_scale_ablation/summary.csv",
+    "destination": "figures/source_data/fixed_scale_ablation_summary.csv",
+    "source_sha256": "e0bde734dad7edd8ce9f7d40c7183be96be9aed6fc1ca9dc61b5306d329bee8a"
+  },
+  {
+    "source": "paired_stable_joint_differential/scripts/07_make_publication_figures.py",
+    "destination": "figures/renderers/legacy_panels.py",
+    "source_sha256": "596a72d83fa5f5ab182c4d86a34070df4ba592d2ea4841f3faa9d5cf06ef7eca"
+  },
+  {
+    "source": "paired_stable_joint_differential/scripts/19_audit_figure2_data.py",
+    "destination": "scripts/19_audit_figure2_data.py",
+    "source_sha256": "0d6e24fac3eb4db0447f0beef991ef5c9a5a2fb7e6a2269d13ca929561451cc6",
+    "adaptation": "Numeric Figure 2 audit extracted; original Chinese DOCX dependency removed; configurable source-data folder."
+  }
+]

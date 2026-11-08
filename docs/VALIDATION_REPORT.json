@@ -1,0 +1,46 @@
+{
+  "preparation_date": "2026-11-08",
+  "python": "3.10.9",
+  "dependencies": {
+    "numpy": "1.23.5",
+    "pandas": "1.5.3",
+    "scipy": "1.10.0",
+    "matplotlib": "3.7.0",
+    "openpyxl": "3.0.10",
+    "Pillow": "12.2.0",
+    "pytest": "7.1.2"
+  },
+  "algorithm_source_unchanged": true,
+  "benchmark_source_unchanged": true,
+  "manuscripts_unchanged": true,
+  "tests_passed": 16,
+  "baseline_formula_checks_passed": 9,
+  "public_preprocessing_matches_archived": true,
+  "rat_preprocessing_matches_archived": true,
+  "public_primary_joint_pvalues": {
+    "HADDAD Air": 0.015625,
+    "HADDAD IHH": 0.0078125,
+    "MARS": 0.03125,
+    "HE infants": 0.00390625
+  },
+  "public_sensitivity_records_matched": {
+    "individual_deletion": 143,
+    "feature_subsampling_view_and_joint": 360,
+    "subgroup_or_reference": 42
+  },
+  "he_full_sensitivity_summary_matches_archived": true,
+  "rat_primary_joint_pvalue": 0.015625,
+  "rat_ko_clr_joint_pvalue": 0.015625,
+  "public_source_links_verified": 11,
+  "haddad_remote_download_sha256_verified": 3,
+  "all_figures_rendered_locally": 14,
+  "isolated_archive_public_figures_rendered": 11,
+  "out_of_canvas_text_count": 0,
+  "wheel_built_and_imported_outside_checkout": true,
+  "fresh_dependency_installation_performed": false,
+  "full_500_replicate_simulations_rerun": false,
+  "quick_core_and_targeted_simulations_executed": true,
+  "github_upload_performed": false,
+  "license_selected": false,
+  "permanent_archive_created": false
+}

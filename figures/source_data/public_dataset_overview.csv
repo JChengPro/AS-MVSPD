@@ -1,0 +1,5 @@
+﻿dataset_id,subset,display_label,paired_subjects,time_points,microbiome_features,metabolome_features,sign_patterns,exact_enumeration,microbiome_p,metabolome_p,joint_p
+HADDAD_OSA_IHH,Air,HADDAD Air,8,2,93,1707,256,True,0.015625,0.0078125,0.015625
+HADDAD_OSA_IHH,IHH,HADDAD IHH,8,2,93,1707,256,True,0.0078125,0.0078125,0.0078125
+MARS_IBS_2020,all,MARS IBS 2020,70,2,701,26,256,False,0.00390625,0.03125,0.03125
+HE_INFANTS_MFGM_2019,2_to_12_months,HE infants 2–12 mo,57,2,33,119,256,False,0.00390625,0.00390625,0.00390625
