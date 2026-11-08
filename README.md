@@ -93,11 +93,12 @@ file hashes and adaptation notes are recorded in
 
 ## Release and citation
 
-Version: `0.1.0` (local release preparation). The owner intends to publish the
-repository under `JChengPro`; a remote repository and permanent archive have not
-yet been created by this preparation. Before public release, the rights holders
-must choose a software license and confirm the rat data-sharing arrangements.
-No license grant or archive DOI is implied by this local preparation.
+Version: `0.1.0`.
 
-`CITATION.cff` contains the author names from the current manuscript. Add the
-confirmed repository URL and version-specific archive DOI when available.
+Source code: https://github.com/JChengPro/AS-MVSPD
+
+The software is distributed under the MIT License; see [LICENSE](LICENSE).
+
+Raw rat metagenomic reads are deposited under NCBI BioProject PRJNA1558105, with public release scheduled for 14 November 2026. Raw metabolomics data, provider feature tables, processed metabolite matrices and sample metadata are available at https://doi.org/10.5281/zenodo.24049115.
+
+The software archive DOI will be added after the first GitHub release is archived by Zenodo.
